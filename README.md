@@ -18,13 +18,13 @@
 - 🧑‍🏫 Creador de Linux Sv
 <br>
 
-## Proyectos *bombitas*
+## Sitema Operativo *Linux Sv*
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Escritorio Cinamon</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/AA2GuOE.png" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
