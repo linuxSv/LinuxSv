@@ -11,10 +11,10 @@
 ## Sobre mi
 
 - ⭐ Linux Sv ⭐ 
-- 📲 Sistema operativo basado en debian
+- 🐧 Sistema operativo basado en debian
 - 🎥 Escritorio Cinamon con nuevos widgety mucho mas
-- ✏️ Sistema Linux Modificado por MasterSv
-- 📗 Open Source
+- ✏🖥️ Sistema Linux Modificado por MasterSv
+- 👨🏻‍💻 Open Source
 - 🧑‍🏫 Creador de Linux Sv
 <br>
 
