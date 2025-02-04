@@ -28,6 +28,8 @@
 <p>
 </p>
 <p>🎨 Personaliza tu Escritorio: Desde temas y widgets hasta fondos de pantalla y más, Cinnamon te permite diseñar tu entorno ideal.
+  </p>
+  <p>
 🌐 Únete a Nosotros: No te quedes atrás y forma parte de la revolución del software libre. Descarga Linux SV con Cinnamon hoy mismo y descubre un nuevo mundo de posibilidades..</p>
 </div>
                                                                                       
