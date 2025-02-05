@@ -110,6 +110,7 @@ Estamos emocionados de presentarles una combinación poderosa para potenciar su 
 </table>                                                                                 
 </div>
 <br>
+<div align="center">
 <table>
   <td>
     <h3 align="center">🌐 Descarga Linux Sv en El Salvador: Da el Salto al Software Libre 🌐</h3>
@@ -117,6 +118,7 @@ Estamos emocionados de presentarles una combinación poderosa para potenciar su 
     <p>¿Estás listo para explorar el emocionante mundo del software libre? Linux es una opción increíble para todos aquellos que buscan un sistema operativo seguro, flexible y personalizable. Aquí tienes todo lo que necesitas saber para comenzar con Linux Sv</p>
   </td>
 </table>
+</div>
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
