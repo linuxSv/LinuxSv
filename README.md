@@ -101,7 +101,7 @@ Estamos emocionados de presentarles una combinación poderosa para potenciar su 
                
 <h3 align="center">🎓 Explora Herramientas Educativas en Linux para Estudiantes en El Salvador 🎓</h3>
 <div align="center">                                       
-<a href="#" target="_blank"><img src="https://i.imgur.com/1QgU4Zx.png" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="#" target="_blank"><img src="https://i.imgur.com/1QgU4Zx.png" width="400" alt="Linux Sv"></a>
 <br>
 <p>
 </p>
@@ -112,7 +112,7 @@ Estamos emocionados de presentarles una combinación poderosa para potenciar su 
 <br>
 <div align="center">
 <table>
-  <td>
+  <td align="center">
     <h3 align="center">🌐 Descarga Linux Sv en El Salvador: Da el Salto al Software Libre 🌐</h3>
     <a href="https://drive.google.com/file/d/1Ak3OGE1gV_dd0SMJMIDy-mAs9rDoag3u/view?usp=drive_link" target="_blank"> <img src="https://i.imgur.com/eihjsdb.png" width="400" align="center" alt="Descarga Linux Sv"></a>
     <p>¿Estás listo para explorar el emocionante mundo del software libre? Linux es una opción increíble para todos aquellos que buscan un sistema operativo seguro, flexible y personalizable. Aquí tienes todo lo que necesitas saber para comenzar con Linux Sv</p>
