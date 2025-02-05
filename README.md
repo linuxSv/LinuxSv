@@ -84,15 +84,15 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Escritorio Cinamon</h3>
+<h3 align="center">🌟 Descubre el Futuro del Desarrollo en Linux con las Herramientas de Microsoft 🌟</h3>
 <div align="center">
-<a href="#" target="_blank"><img src="https://i.imgur.com/AA2GuOE.png" width="400" alt="Curso básico android"></a>
+<a href="#" target="_blank"><img src="https://i.imgur.com/1QgU4Zx.png" width="400" alt="Curso básico android"></a>
 <p>
 </p>
-<p>🎨 Personaliza tu Escritorio: Desde temas y widgets hasta fondos de pantalla y más, Cinnamon te permite diseñar tu entorno ideal.
+<p>🎨 ¡Hola comunidad de Linux en El Salvador! 🇸🇻
   </p>
   <p>
-🌐 Únete a Nosotros: No te quedes atrás y forma parte de la revolución del software libre. Descarga Linux SV con Cinnamon hoy mismo y descubre un nuevo mundo de posibilidades..</p>
+Estamos emocionados de presentarles una combinación poderosa para potenciar su experiencia de desarrollo en sistemas operativos Linux: Copilot, ChatGPT y Microsoft Designer. 🎨💻🧠</p>
 </div>
                                                                                       
 </td>
