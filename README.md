@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, este es un Sistema Operativo <a href="https://aristi.dev">Linux Sv</a> 🐧</h1>
+<h1 align="center">Hola, este es un Sistema Operativo <a href="#">Linux Sv</a> 🐧</h1>
 </div>
 <img src="https://i.imgur.com/J6SDy4i.png">
 
@@ -19,7 +19,7 @@
 <td width="50%">
 <h3 align="center">Escritorio Cinamon</h3>
 <div align="center">
-<a href="#" target="_blank"><img src="https://i.imgur.com/AA2GuOE.png" width="400" alt="Curso básico android"></a>
+<a href="#" target="_blank"><img src="https://i.imgur.com/AA2GuOE.png" width="400" alt="Linux Sv"></a>
 <p>
 </p>
 <p>🎨 Personaliza tu Escritorio: Desde temas y widgets hasta fondos de pantalla y más, Cinnamon te permite diseñar tu entorno ideal.
@@ -34,7 +34,7 @@
                
 <h3 align="center">Incluye herramientas de IA</h3>
 <div align="center">                                       
-<a href="#" target="_blank"><img src="https://i.imgur.com/QZDndRj.png" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="#" target="_blank"><img src="https://i.imgur.com/QZDndRj.png" width="400" alt="Linux Sv"></a>
 <br>
 <p>
 </p>
@@ -53,7 +53,7 @@
 <td width="50%">
 <h3 align="center">Cuenta con google Doc y iCloud</h3>
 <div align="center">
-<a href="#" target="_blank"><img src="https://i.imgur.com/vKNBFOj.png" width="400" alt="Curso intermedio Android"></a>
+<a href="#" target="_blank"><img src="https://i.imgur.com/vKNBFOj.png" width="400" alt="Linux Sv"></a>
 <p>
 </p>
 <p>🌟 Potencia tu Productividad con Linux SV y Google Apps 🌟</p>
@@ -68,7 +68,7 @@
 <td width="50%">
 <h3 align="center">Descargalo y deja tu comentario</h3>
 <div align="center">
-<a href="https://drive.google.com/file/d/1Ak3OGE1gV_dd0SMJMIDy-mAs9rDoag3u/view?usp=drive_link" target="_blank"><img src="https://i.imgur.com/zYeQIT5.png" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a href="https://drive.google.com/file/d/1Ak3OGE1gV_dd0SMJMIDy-mAs9rDoag3u/view?usp=drive_link" target="_blank"><img src="https://i.imgur.com/zYeQIT5.png" width="400" alt="Descarga Linux Sv"></a>
 <p>
 </p>
 <p>¡Prepárate para experimentar el poder de Linux SV! Un sistema operativo rápido, seguro y altamente personalizable que eleva tu experiencia informática. 🚀✨</p>
@@ -86,7 +86,7 @@
 <td width="50%">
 <h3 align="center">🌟 Descubre el Futuro del Desarrollo en Linux con las Herramientas de Microsoft 🌟</h3>
 <div align="center">
-<a href="#" target="_blank"><img src="https://i.imgur.com/4uLBqsN.png" width="400" alt="Curso básico android"></a>
+<a href="#" target="_blank"><img src="https://i.imgur.com/4uLBqsN.png" width="400" alt="Linux Sv"></a>
 <p>
 </p>
 <p>🎨 ¡Hola comunidad de Linux en El Salvador! 🇸🇻
@@ -110,7 +110,13 @@ Estamos emocionados de presentarles una combinación poderosa para potenciar su 
 </table>                                                                                 
 </div>
 <br>
-
+<table>
+  <td>
+    <h3 align="center">🌐 Descarga Linux Sv en El Salvador: Da el Salto al Software Libre 🌐</h3>
+    <a href="https://drive.google.com/file/d/1Ak3OGE1gV_dd0SMJMIDy-mAs9rDoag3u/view?usp=drive_link" target="_blank"><img src="https://i.imgur.com/eihjsdb.png" width="400" alt="Descarga Linux Sv"></a>
+    <p>¿Estás listo para explorar el emocionante mundo del software libre? Linux es una opción increíble para todos aquellos que buscan un sistema operativo seguro, flexible y personalizable. Aquí tienes todo lo que necesitas saber para comenzar con Linux Sv</p>
+  </td>
+</table>
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
