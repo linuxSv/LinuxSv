@@ -31,7 +31,7 @@
 </td>
 
 <td width="50%">
-               <br>
+               
 <h3 align="center">Incluye herramientas de IA</h3>
 <div align="center">                                       
 <a href="#" target="_blank"><img src="https://i.imgur.com/QZDndRj.png" width="400" alt="Curso arquitectura MVVM"></a>
@@ -98,7 +98,7 @@ Estamos emocionados de presentarles una combinación poderosa para potenciar su 
 </td>
 
 <td width="50%">
-               <br>
+               
 <h3 align="center">🎓 Explora Herramientas Educativas en Linux para Estudiantes en El Salvador 🎓</h3>
 <div align="center">                                       
 <a href="#" target="_blank"><img src="https://i.imgur.com/1QgU4Zx.png" width="400" alt="Curso arquitectura MVVM"></a>
