@@ -114,7 +114,7 @@ Estamos emocionados de presentarles una combinación poderosa para potenciar su 
 <table>
   <td>
     <h3 align="center">🌐 Descarga Linux Sv en El Salvador: Da el Salto al Software Libre 🌐</h3>
-    <a href="https://drive.google.com/file/d/1Ak3OGE1gV_dd0SMJMIDy-mAs9rDoag3u/view?usp=drive_link" target="_blank"><img src="https://i.imgur.com/eihjsdb.png" width="400" alt="Descarga Linux Sv"></a>
+    <a href="https://drive.google.com/file/d/1Ak3OGE1gV_dd0SMJMIDy-mAs9rDoag3u/view?usp=drive_link" target="_blank"><img align="center" src="https://i.imgur.com/eihjsdb.png" width="400" alt="Descarga Linux Sv"></a>
     <p>¿Estás listo para explorar el emocionante mundo del software libre? Linux es una opción increíble para todos aquellos que buscan un sistema operativo seguro, flexible y personalizable. Aquí tienes todo lo que necesitas saber para comenzar con Linux Sv</p>
   </td>
 </table>
