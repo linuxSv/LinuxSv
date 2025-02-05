@@ -86,7 +86,7 @@
 <td width="50%">
 <h3 align="center">🌟 Descubre el Futuro del Desarrollo en Linux con las Herramientas de Microsoft 🌟</h3>
 <div align="center">
-<a href="#" target="_blank"><img src="https://i.imgur.com/1QgU4Zx.png" width="400" alt="Curso básico android"></a>
+<a href="#" target="_blank"><img src="https://i.imgur.com/4uLBqsN.png" width="400" alt="Curso básico android"></a>
 <p>
 </p>
 <p>🎨 ¡Hola comunidad de Linux en El Salvador! 🇸🇻
@@ -99,17 +99,13 @@ Estamos emocionados de presentarles una combinación poderosa para potenciar su 
 
 <td width="50%">
                <br>
-<h3 align="center">Incluye herramientas de IA</h3>
+<h3 align="center">🎓 Explora Herramientas Educativas en Linux para Estudiantes en El Salvador 🎓</h3>
 <div align="center">                                       
-<a href="#" target="_blank"><img src="https://i.imgur.com/QZDndRj.png" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="#" target="_blank"><img src="https://i.imgur.com/1QgU4Zx.png" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
 </p>
-<p>🌟 Explora Linux SV: El Poder de la Tecnología IA y el Menú de Aplicaciones 🌟</p>
-
-<p>🎉 ¡Hola, entusiastas de la tecnología! 🎉</p>
-
-<p>¿Buscas un sistema operativo que combine facilidad de uso, potencia y la última tecnología en inteligencia artificial? ¡Te presentamos Linux SV! 🚀✨</p>
+<p>Si eres un estudiante apasionado por la tecnología y el aprendizaje, tenemos algunas herramientas increíbles que te ayudarán a potenciar tus habilidades y creatividad en sistema operativo Linux SV</p>
 </div>                                                             
 </table>                                                                                 
 </div>
