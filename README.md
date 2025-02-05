@@ -81,6 +81,40 @@
 </div>
 <br>
 
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Escritorio Cinamon</h3>
+<div align="center">
+<a href="#" target="_blank"><img src="https://i.imgur.com/AA2GuOE.png" width="400" alt="Curso básico android"></a>
+<p>
+</p>
+<p>🎨 Personaliza tu Escritorio: Desde temas y widgets hasta fondos de pantalla y más, Cinnamon te permite diseñar tu entorno ideal.
+  </p>
+  <p>
+🌐 Únete a Nosotros: No te quedes atrás y forma parte de la revolución del software libre. Descarga Linux SV con Cinnamon hoy mismo y descubre un nuevo mundo de posibilidades..</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+               <br>
+<h3 align="center">Incluye herramientas de IA</h3>
+<div align="center">                                       
+<a href="#" target="_blank"><img src="https://i.imgur.com/QZDndRj.png" width="400" alt="Curso arquitectura MVVM"></a>
+<br>
+<p>
+</p>
+<p>🌟 Explora Linux SV: El Poder de la Tecnología IA y el Menú de Aplicaciones 🌟</p>
+
+<p>🎉 ¡Hola, entusiastas de la tecnología! 🎉</p>
+
+<p>¿Buscas un sistema operativo que combine facilidad de uso, potencia y la última tecnología en inteligencia artificial? ¡Te presentamos Linux SV! 🚀✨</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
