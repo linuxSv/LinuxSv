@@ -5,7 +5,7 @@
 
 ## Sobre mi
 
-- ⭐ Linux Sv ⭐ 
+- ⭐ Linux Sv New version 2.0 ⭐ 
 - 🐧 Sistema operativo basado en debian
 - 🎥 Escritorio Cinamon con nuevos widgety mucho mas
 - ✏🖥️ Sistema Linux Modificado por MasterSv
@@ -68,7 +68,7 @@
 <td width="50%">
 <h3 align="center">Descargalo y deja tu comentario</h3>
 <div align="center">
-<a href="https://drive.google.com/file/d/1Ak3OGE1gV_dd0SMJMIDy-mAs9rDoag3u/view?usp=drive_link" target="_blank"><img src="https://i.imgur.com/zYeQIT5.png" width="400" alt="Descarga Linux Sv"></a>
+<a href="https://script.google.com/macros/s/AKfycbwCCkz8qX61tg99d05-frU5Bjz4kMcDwE-JtqSBrLe2gXkv6_uDbWmc_0BEc9e7UIE2AQ/exec?download=true" target="_blank"><img src="https://i.imgur.com/zYeQIT5.png" width="400" alt="Descarga Linux Sv"></a>
 <p>
 </p>
 <p>¡Prepárate para experimentar el poder de Linux SV! Un sistema operativo rápido, seguro y altamente personalizable que eleva tu experiencia informática. 🚀✨</p>
@@ -114,7 +114,7 @@ Estamos emocionados de presentarles una combinación poderosa para potenciar su 
 <table>
   <td align="center">
     <h3 align="center">🌐 Descarga Linux Sv en El Salvador: Da el Salto al Software Libre 🌐</h3>
-    <a href="https://drive.google.com/file/d/1Ak3OGE1gV_dd0SMJMIDy-mAs9rDoag3u/view?usp=drive_link" target="_blank"> <img src="https://i.imgur.com/eihjsdb.png" width="400" align="center" alt="Descarga Linux Sv"></a>
+    <a href="https://script.google.com/macros/s/AKfycbwCCkz8qX61tg99d05-frU5Bjz4kMcDwE-JtqSBrLe2gXkv6_uDbWmc_0BEc9e7UIE2AQ/exec?download=true" target="_blank"> <img src="https://i.imgur.com/eihjsdb.png" width="400" align="center" alt="Descarga Linux Sv"></a>
     <p>¿Estás listo para explorar el emocionante mundo del software libre? Linux es una opción increíble para todos aquellos que buscan un sistema operativo seguro, flexible y personalizable. Aquí tienes todo lo que necesitas saber para comenzar con Linux Sv</p>
   </td>
 </table>
