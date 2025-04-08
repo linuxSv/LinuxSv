@@ -156,17 +156,16 @@ Cada donación nos ayuda a:
 <h3 align="center">📧 ¿Cómo donar?</h3>
 <div align="center">
 <p>
-  1. Envíanos un correo a [linuxos.sv@gmail.com](mailto:linuxos.sv@gmail.com) con:
-   - El monto que deseas donar (en BTC o USD)
-   - Tu nombre (opcional) para agradecerte públicamente
-2. Te responderemos con:
-   - Nuestra dirección Bitcoin segura
-   - Un recibo digital de donación
-   - Acceso exclusivo a builds beta (opcional)
-
+- Envíanos un correo a [linuxos.sv@gmail.com](mailto:linuxos.sv@gmail.com) con:
+- El monto que deseas donar (en BTC o USD)
+- Tu nombre (opcional) para agradecerte públicamente
+- Te responderemos con:
+- Nuestra dirección Bitcoin segura
+- Un recibo digital de donación
+- Acceso exclusivo a builds beta (opcional)
 </p>
-
 </div>
+</td>   
 
 ### ⚙️ &nbsp;GitHub Analytics
 
