@@ -187,3 +187,11 @@ Cada donación nos ayuda a:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+<h3 align="center"> ## 💛 ¿Te gusta este proyecto?  </h3>
+
+Ayúdanos a mejorarlo con una donación en Bitcoin:
+
+[![Donate Bitcoin](https://img.shields.io/badge/BTC-35qS9dKvT2qZh7ALnZfWp8vJyF7Q3JXNi-blue?style=flat-square&logo=bitcoin)](bitcoin:3L8f3v6BWwL7KBcb8AMZQ2bpE3ACne2EUf)
+
+O escríbenos a [linuxsv.os@gmail.com](mailto:linuxsv.os@gmail.com) para más opciones.
