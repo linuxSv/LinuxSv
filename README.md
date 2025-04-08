@@ -163,6 +163,13 @@ Cada donación nos ayuda a:
 - Nuestra dirección Bitcoin segura
 - Un recibo digital de donación
 - Acceso exclusivo a builds beta (opcional)
+  ### 💎 Beneficios para donantes:
+| Donación | Recompensa |
+|----------|------------|
+| ≥ 0.005 BTC | 📜 Tu nombre en los créditos |
+| ≥ 0.01 BTC | 🔥 Builds premium sin anuncios |
+| ≥ 0.05 BTC | ✨ Vota por nuevas features |
+  
 </p>
 </div>
 </td>   
