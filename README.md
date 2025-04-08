@@ -168,11 +168,13 @@ Cada donación nos ayuda a:
   
  <h3 align="center"> ### 💎 Beneficios para donantes: </h3>
 <p> Donación </p>
-<p>
-+ ≥ 0.005 BTC  📜 Tu nombre en los créditos  
-+ ≥ 0.01 BTC  🔥 Builds premium sin anuncios 
-+ ≥ 0.05 BTC  ✨ Vota por nuevas features 
-</p>  
+
+
+* ≥ 0.005 BTC  📜 Tu nombre en los créditos
+* ≥ 0.01 BTC  🔥 Builds premium sin anuncios 
+* ≥ 0.05 BTC  ✨ Vota por nuevas features 
+
+
 </p>
 </div>
 </td>   
