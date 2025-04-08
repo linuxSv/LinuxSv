@@ -115,41 +115,13 @@ Estamos emocionados de presentarles una combinación poderosa para potenciar su 
   <td align="center">
     <h3 align="center">🌐 Descarga Linux Sv en El Salvador: Da el Salto al Software Libre 🌐</h3>
     <a href="https://script.google.com/macros/s/AKfycbwCCkz8qX61tg99d05-frU5Bjz4kMcDwE-JtqSBrLe2gXkv6_uDbWmc_0BEc9e7UIE2AQ/exec?download=true" target="_blank"> <img src="https://i.imgur.com/eihjsdb.png" width="400" align="center" alt="Descarga Linux Sv"></a>
-    <p>**Tu apoyo hace la diferencia** ✨  
-Cada donación nos ayuda a:
-
-- 🚀 Acelerar el desarrollo de nuevas funciones  
-- 🐛 Solucionar bugs más rápidamente  
-- 🌎 Traducir a más idiomas  
-- 🔥 Mantener el proyecto libre y open-source  
-
-### 📧 ¿Cómo donar?
-1. Envíanos un correo a [linuxos.sv@gmail.com](mailto:linuxos.sv@gmail.com) con:
-   - El monto que deseas donar (en BTC o USD)
-   - Tu nombre (opcional) para agradecerte públicamente
-2. Te responderemos con:
-   - Nuestra dirección Bitcoin segura
-   - Un recibo digital de donación
-   - Acceso exclusivo a builds beta (opcional)
-
-### 💎 Beneficios para donantes:
-| Donación | Recompensa |
-|----------|------------|
-| ≥ 0.005 BTC | 📜 Tu nombre en los créditos |
-| ≥ 0.01 BTC | 🔥 Builds premium sin anuncios |
-| ≥ 0.05 BTC | ✨ Vota por nuevas features |
+    <p>
+      ¿Estás listo para explorar el emocionante mundo del software libre? Linux es una opción increíble para todos aquellos que buscan un sistema operativo seguro, flexible y personalizable. Aquí tienes todo lo que necesitas saber para comenzar con Linux Sv
 </p>
   </td>
 </table>
 </div>
-<div align="center">
-<table>
-  <td align="center">
-    <h3 align="center">🌐 **Tu apoyo hace la diferencia** ✨  🌐</h3>
-    <p>¿Estás listo para explorar el emocionante mundo del software libre? Linux es una opción increíble para todos aquellos que buscan un sistema operativo seguro, flexible y personalizable. Aquí tienes todo lo que necesitas saber para comenzar con Linux Sv</p>
-  </td>
-</table>
-</div>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
