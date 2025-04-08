@@ -156,9 +156,9 @@ Cada donación nos ayuda a:
 <h3 align="center">📧 ¿Cómo donar?</h3>
 <div align="center">
 <p>
-- Envíanos un correo a [linuxos.sv@gmail.com](mailto:linuxos.sv@gmail.com) con:
-- El monto que deseas donar (en BTC o USD)
-- Tu nombre (opcional) para agradecerte públicamente
+- Envíanos un correo a [linuxos.sv@gmail.com](mailto:linuxos.sv@gmail.com) con: </p>
+<p> - El monto que deseas donar (en BTC o USD) </p>
+<p> - Tu nombre (opcional) para agradecerte públicamente </p>
 - Te responderemos con:
 - Nuestra dirección Bitcoin segura
 - Un recibo digital de donación
