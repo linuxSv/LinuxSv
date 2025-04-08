@@ -122,6 +122,52 @@ Estamos emocionados de presentarles una combinación poderosa para potenciar su 
 </table>
 </div>
 
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🌟 Apoya este Proyecto</h3>
+<div align="center">
+<a href="#" target="_blank"><img src="https://i.imgur.com/vKNBFOj.png" width="400" alt="Linux Sv"></a>
+<p>
+</p>
+<p><div align="center">
+  
+[![Bitcoin Donate](https://img.shields.io/badge/Bitcoin-Donate%20Now-orange?style=for-the-badge&logo=bitcoin)](mailto:linuxos.sv@gmail.com?subject=Donación%20Bitcoin%20para%20Stable%20Launcher)
+
+</div>
+
+**Tu apoyo hace la diferencia** ✨  
+Cada donación nos ayuda a:
+
+- 🚀 Acelerar el desarrollo de nuevas funciones  
+- 🐛 Solucionar bugs más rápidamente  
+- 🌎 Traducir a más idiomas  
+- 🔥 Mantener el proyecto libre y open-source  
+
+</p>
+
+
+</div>
+                                                                                      
+</td>       
+
+<td width="50%">
+<h3 align="center">📧 ¿Cómo donar?</h3>
+<div align="center">
+<p>
+  1. Envíanos un correo a [linuxos.sv@gmail.com](mailto:linuxos.sv@gmail.com) con:
+   - El monto que deseas donar (en BTC o USD)
+   - Tu nombre (opcional) para agradecerte públicamente
+2. Te responderemos con:
+   - Nuestra dirección Bitcoin segura
+   - Un recibo digital de donación
+   - Acceso exclusivo a builds beta (opcional)
+
+</p>
+
+</div>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
