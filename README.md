@@ -179,7 +179,7 @@ Cada donación nos ayuda a:
 </div>
 </td>   
 
-### ⚙️ &nbsp;GitHub Analytics
+<h3 align="center"> ⚙️ &nbsp;GitHub Analytics    ⚙️ </h3>
 
 <p align="center">
 <a href="https://github.com/ArisGuimera">
@@ -188,7 +188,7 @@ Cada donación nos ayuda a:
 </a>
 </p>
 
-<h3 align="center"> ## 💛 ¿Te gusta este proyecto?  </h3>
+<h3 align="center"> 💛 ¿Te gusta este proyecto?  </h3>
 <div align="center">    
 Ayúdanos a mejorarlo con una donación en Bitcoin:
 
